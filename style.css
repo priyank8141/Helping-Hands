@@ -1,0 +1,33 @@
+body{
+background-color:black;
+
+
+}
+.founder{
+border-radius:50%;
+margin-bottom:10px;
+}
+
+figcaption {
+color:white;
+text-align:center;
+  display: block;
+}
+.row{
+display:flex;
+}
+
+.column{
+flex:33.33%;
+padding:3px;
+}
+#intro{
+border-radius:10px;
+background-color:#F1F7ED;
+
+}
+#intro P{
+padding:5 5 5 5px;
+word-spacing:6px;
+
+}
